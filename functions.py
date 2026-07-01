@@ -34,6 +34,6 @@ def multiply (a=12, b=15):
     print (a*b)
     return (a*b)
 
-result = multiply()
+result = multiply(8, 6)
 
 print("This is the returned result of the multiplication function: ", result)
